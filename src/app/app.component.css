@@ -1,0 +1,12 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 5px;
+}
+.btn {
+  display: block;
+  margin: auto;
+}
+p {
+  text-align: center;
+}
